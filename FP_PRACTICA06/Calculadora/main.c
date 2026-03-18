@@ -55,5 +55,5 @@ int main() {
                 break;
             default:
                 printf("Opcion no valida");
-        }
+     }   }
 }
