@@ -1,0 +1,4 @@
+Pedro   18  0
+Juan    20  1
+Maria   19  1
+Juana   18  0
